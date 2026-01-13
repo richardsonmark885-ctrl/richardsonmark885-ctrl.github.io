@@ -1,1 +1,16 @@
-
+body {
+  background: #0b0b0f;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+a {
+  color: #ff0000;
+  font-size: 18px;
+  text-decoration: none;
+}
+iframe {
+  width: 90%;
+  height: 220px;
+  border: none;
+}
